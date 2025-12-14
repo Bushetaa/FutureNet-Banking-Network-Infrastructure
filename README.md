@@ -52,4 +52,4 @@ This network infrastructure meets the bank’s operational needs while maintaini
 ## Contact Information
 For questions or collaboration inquiries, feel free to reach out:
 - **LinkedIn**: www.linkedin.com/in/sherif-thabit
-- **Email**: eng.sherifthabit9@gmail.com
+- **Email**: sherifthabit9@gmail.com
